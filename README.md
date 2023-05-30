@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MfaizanA21
+- 👋 Hi, I’m Faizan Asghar
 - 👀 I’m interested in App development
 - 🌱 I’m currently learningFlutter and Jetpack Compose
 - 📫 How to reach me LinkedIn(https://www.linkedin.com/in/muhammad-faizan-asghar-853aa1241)
