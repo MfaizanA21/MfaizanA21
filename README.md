@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Faizan Asghar
 - 👀 I’m interested in App development
-- 🌱 I’m currently learningFlutter and Jetpack Compose
+- 🌱 I’m currently learning Flutter and Jetpack Compose
 - 📫 How to reach me LinkedIn(https://www.linkedin.com/in/muhammad-faizan-asghar-853aa1241)
 
 <!---
