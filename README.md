@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Faizan Asghar
-- 👀 I’m interested in Mobile App development
-- 🌱 I’m currently learning core Android concepts
+- 👀 I’m interested in Mobile App development and Artificial Intelligence
+- 🌱 I’m currently learning Python and ML
 - 📫 How to reach me LinkedIn(https://www.linkedin.com/in/muhammad-faizan-asghar-853aa1241)
 
 <!---
