@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M. Faizan Asghar</h1>
 <h3 align="center">CS Undergrad - Mobile App Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mfaizana21&label=Profile%20views&color=0e75b6&style=flat" alt="mfaizana21" /> </p>
+<p align="left"> <img src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0rsgDPH34lIr1Q1D1xnXor&ust=1719317634906000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIiQxL2b9IYDFQAAAAAdAAAAABAR" alt="mfaizana21" /> </p>
 <p align="left"> <img src="[https://komarev.com/ghpvc/?username=mfaizana21&label=Profile%20views&color=0e75b6&style=flat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8O2EFLQniKZ9dgl43lkMEDBIcvQ-Nd0NTCLy92PlHCQ&s)" alt="mfaizana21" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mfaizana21" alt="mfaizana21" /></a> </p>
