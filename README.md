@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Machine Learning - py development - .net core**
 
-- 👨‍💻 All of my projects are available at [----](----)
+- 👨‍💻 All of my projects are available at here.
 
 - 💬 Ask me about **Android ( Kotlin and Flutter)**
 
 - 📫 How to reach me **mfaizaan771@gmail.com**
 
-- ⚡ Fun fact **Cliché**
+- ⚡ Fun fact **I love Icecream Shakes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
