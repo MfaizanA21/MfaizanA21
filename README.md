@@ -2,7 +2,7 @@
 <h3 align="center">CS Undergrad - Mobile App Developer</h3>
 
 <p align="center"> <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="mfaizana21" /> </p>
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=mfaizana21&label=Profile%20views&color=0e75b6&style=flat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8O2EFLQniKZ9dgl43lkMEDBIcvQ-Nd0NTCLy92PlHCQ&s)" alt="mfaizana21" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=mfaizana21&label=Profile%20views&color=0e75b6&style=flat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8O2EFLQniKZ9dgl43lkMEDBIcvQ-Nd0NTCLy92PlHCQ&s)" alt="mfaizana22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mfaizana21" alt="mfaizana21" /></a> </p>
 
